@@ -1,16 +1,25 @@
-# projeto
+#Mockup/wireframe
 
-A new Flutter project.
+Nome:GustavoKutzke
 
-## Getting Started
+![image](https://github.com/gustavoKutzke/FlutterProjeto/assets/102746869/9be7d238-54b0-468a-b955-2dc4d90e3106)
 
-This project is a starting point for a Flutter application.
+Escopo:
 
-A few resources to get you started if this is your first Flutter project:
+Registro e Autenticação do Usuário:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+●Cadastro de novo usuário com Nome,Senha , Email e Telefone.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ListaDeContatos:
+
+●Irá conter a Lista de Contatos dos Seus amigos.
+
+Conversas:
+
+●Iniciar conversas individuais e em grupo.
+
+●Enviar e receber mensagens de texto.
+
+●Enviar e receber mensagens multimídia (fotos,vídeos) 
+
+●Notificações de novas mensagens.
